@@ -21,6 +21,6 @@ What covers this example:
 
 - Does not hide the dialog when the user rotates the device.
 - Does not apply UI changes after async task result, when progress 
-  dialog is canceled by the user.
-- Delays dissmis of progress dialog when async task is finished, but app
+  dialog is canceled by the user or the user exits the app.
+- Delays dismiss of progress dialog when async task is finished, but app
   is in background.
