@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RotationSupport</string>
+    <string name="action_settings">Settings</string>
+    <string name="custom_text">This text will be changed after the task!</string>
+    <string name="button_text">Start some task</string>
+    <string name="custom_progress_message">Custom progress message</string>
+    <string name="custom_dialog_title">Custom dialog message</string>
+    <string name="custom_dialog_message">Custom dialog message</string>
+    <string name="text_after_action">Text after action</string>
+</resources>
