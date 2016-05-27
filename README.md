@@ -19,7 +19,7 @@ Not to have any crashes or invalid states in the app.
 
 What covers this example:
 
-- Does not hide the dialog when there are rotations of the screen.
+- Does not hide the dialog when the user rotates the device.
 - Does not apply UI changes after async task result, when progress 
   dialog is canceled by the user.
 - Delays dissmis of progress dialog when async task is finished, but app
